@@ -1,14 +1,40 @@
+<div id="title" align=center>
 
 
-[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
-关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
+![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
 
-- **`微信扫一扫 (爱毕设) 获取源码`**
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hjsdjko
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](http://jsxs1.cn)
+
+</div>
+
+点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
+
+完整源码联系 **人工客服24小时**全天在线 **【QQ 979748385 】** 回复项目编号即可获取！！！
+
+---
+
+**注意事项：**
+
+> **如何查看指定项目的演示视频？**
+
+💥💥💥点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
+
+![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
+
+> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
+
+1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
-***************************************************************
+
+
+---
+
 系统架构
 
 前端：html | js | css | jquery | vue
@@ -28,15 +54,3 @@
 4、在IDEA中运行
 
 5、打开浏览器，参考<说明文档.txt>中的地址
-
-***************************************************************
-
-![2fe954e2c4e47c47904337b27e5af45](https://github.com/hjsdjko/springboot46869/assets/120558513/c9c0de69-c2af-4141-8225-7494d16476f5)
-
-![20953f9c94e83d5bef3a82a62ec8c3f](https://github.com/hjsdjko/springboot46869/assets/120558513/e72b7425-f112-4ea3-b44a-4e072fdb0f2f)
-
-![561584f8ac87ee5ef47f85c7a7a3166](https://github.com/hjsdjko/springboot46869/assets/120558513/12b3396d-9545-422c-b0f6-86faca70d434)
-
-![15f32c909e3149699048fc2805ff6cb](https://github.com/hjsdjko/springboot46869/assets/120558513/78422fa2-090b-46d9-8d9f-dfe4314d3d3e)
-
-![19151ce87ab06648b7ee5234606a7ca](https://github.com/hjsdjko/springboot46869/assets/120558513/fcc63d11-7844-4121-800e-61e886c10d78)
